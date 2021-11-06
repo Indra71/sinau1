@@ -1,2 +1,0 @@
-# sinau1
-circle
